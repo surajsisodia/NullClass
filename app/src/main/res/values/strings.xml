@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NullClass Intern</string>
+    <string name="login_text">Login</string>
+    <string name="Email_id">Email ID</string>
+    <string name="password_text">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="welcome">Welcome</string>
+</resources>
